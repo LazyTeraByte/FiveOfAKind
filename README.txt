@@ -1,0 +1,1 @@
+A game for five in a row in english, Omok in korean, Gomoku in japanese, or Wu Zi Qi in chinese.
